@@ -147,7 +147,7 @@ Before you begin, ensure you have the following prerequisites installed:
 ![image](https://github.com/mythri1509-git/attendanceqr/blob/main/qremployeepage.jpg?raw=true)
 
 ### Submission Successful Page
-![image](https://github.com/AzeemIdrisi/QR-Attendance-System/assets/112647789/0f77779e-7648-4356-84c0-7db58b3e786c)
+![image](https://github.com/mythri1509-git/attendanceqr/blob/main/submission_successful.jpg?raw=true)
 
 
 ## Contributions
