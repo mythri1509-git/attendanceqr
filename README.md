@@ -143,7 +143,7 @@ Before you begin, ensure you have the following prerequisites installed:
 ![image](https://github.com/mythri1509-git/attendanceqr/blob/main/vtsqroutput.jpg?raw=true)
 
 ### Employee Page
-![image](https://github.com/AzeemIdrisi/QR-Attendance-System/assets/112647789/a8e2f4a7-831c-4ac5-8e1b-c917a9ca9001)
+![image](https://github.com/mythri1509-git/attendanceqr/blob/main/qratten_addmanually.jpg?raw=true)
 
 ### Submission Successful Page
 ![image](https://github.com/AzeemIdrisi/QR-Attendance-System/assets/112647789/0f77779e-7648-4356-84c0-7db58b3e786c)
