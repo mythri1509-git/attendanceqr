@@ -2,7 +2,8 @@
 
 # QR Attendance System
 
-![image](https://github.com/mythri1509-git/attendanceqr/commit/7b806aa0127bdfd4391fa86aee2fba135a8fd933)
+![QR Code Attendance System](https://github.com/mythri1509-git/attendanceqr/blob/main/vtsqroutput.jpg?raw=true)
+
 
 </div>
 
